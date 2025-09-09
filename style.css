@@ -1,0 +1,85 @@
+.body{
+height: 100vh;
+display: flex;
+padding: 30px;
+justify-content: center;
+align-items: center;
+background: #3849ff;
+background: linear-gradient(90deg, rgba(56, 73, 255, 0.9) 0%, rgba(247, 127, 52, 0.78) 50%, rgba(250, 171, 0, 0.83) 100%);
+}
+
+.caixa{
+width: 500px;
+height: 650px;
+margin: auto;
+border: 1px;
+padding: 30px;
+background: #ffffff;
+background: radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(148, 187, 233, 1) 100%);
+border-radius: 30px;
+text-align: center;
+display: flow-root;
+font-family: arial;
+}
+
+.title{
+color: #000;
+font-size: larger;
+margin-bottom: 20px;
+}
+
+.body2{
+height: 100vh;
+background: #3849ff;
+background: linear-gradient(90deg, rgba(56, 73, 255, 0.9) 0%, rgba(247, 127, 52, 0.78) 50%, rgba(250, 171, 0, 0.83) 100%);
+}
+
+.botão{
+width: 100%;
+padding: 10px;
+margin-bottom: 15px;
+border-radius: 15px;
+font-size: 16px;
+}
+.botão2{
+
+width: 400px;
+height: 500px;
+padding: 10px;
+margin-bottom: 15px;
+border-radius: 15px;
+font-size: 16px;
+background-color: rgb(255, 255, 255);
+}
+
+.caixa2{
+width: 700px;
+height: 850px;
+margin: auto;
+border: 1px;
+padding: 30px;
+background: #ffffff;
+background: radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(148, 187, 233, 1) 100%);
+border-radius: 30px;
+text-align: center;
+display: flow-root;
+font-family: arial;
+}
+
+.image{
+width: 270px;
+height: 120px;
+}
+
+.header{
+position: absolute;
+font-size: 40px;
+top: 20px;
+left: 100px;
+}
+
+
+
+
+
+
